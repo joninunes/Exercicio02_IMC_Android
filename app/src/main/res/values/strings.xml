@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Calculadora IMC Joni</string>
+    <string name="bl_altura">Digite sua Altura:</string>
+    <string name="lb_peso">Digite seu Peso:</string>
+    <string name="btCalcular">Calcular</string>
+</resources>
